@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! 👋
+
+I'm an undergraduate student majoring in Computer Science. I like coding to create apps that improve life for its users.
 
 <!--
 **sarand0/sarand0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
