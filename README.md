@@ -1,6 +1,9 @@
 ## Hi! 👋
-
-I'm an undergraduate student majoring in Computer Science. 
+ 
+- 🔭 I’m an undergraduate at Colgate University, majoring in Computer Science.
+- 🌱 I’m currently learning about discrete structures.
+- 👯 I’m looking to collaborate on AI research.
+- ⚡ In my free time, I enjoy going on walks, exercising and listening to music
 
 <!--
 **sarand0/sarand0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
