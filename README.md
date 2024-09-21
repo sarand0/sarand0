@@ -1,4 +1,4 @@
-## Hi! 👋
+## Hi! I'm Saran 👋
  
 - 🔭 I’m an undergraduate at Colgate University, majoring in Computer Science.
 - 🌱 I’m currently learning about discrete structures.
