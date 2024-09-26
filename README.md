@@ -1,6 +1,6 @@
 ## Hi! I'm Saran 👋
  
-- 🔭 I’m an undergraduate at Colgate University, studying Computer Science.
+- 🔭 I’m an undergraduate student at Colgate University, studying Computer Science.
 - 🌱 I’m currently learning about discrete structures.
 - 👯 I’m looking to collaborate on AI research.
 - ⚡ I enjoy going on walks, exercising and listening to music.
