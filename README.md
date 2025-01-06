@@ -2,7 +2,8 @@
  
 - 🔭 I’m an undergraduate student at Colgate University, studying Computer Science.
 - 🌱 I’m currently learning about discrete structures.
-- 👯 I’m looking to collaborate on AI research.
+- 👯 I’m a research assistant working on an AI, LLM & Government Policy research project.
+- ✨ I'm interested in collaboration opportunities in software and AI!
 - ⚡ I enjoy going on walks, exercising and listening to music.
 
 <!--
