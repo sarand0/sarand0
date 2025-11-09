@@ -1,10 +1,11 @@
 ## Hi! I'm Saran 👋
  
-- 🔭 I recently graduated from Colgate University with a bachelor's degree in Computer Science. 
-- 🌱 I’m currently learning about recommender systems.
-- 👯 I’m a research assistant working on an AI, LLM & Government Policy research project.
-- ✨ I'm interested in collaboration opportunities in software, data and AI & I'm looking for full-time roles in these areas!
-- ⚡ I enjoy going on walks, exercising and listening to music.
+- 🔭 I recently graduated with a Bachelor's in Computer Science from Colgate University, where I built a strong foundation in software engineering and AI research.
+- 🤖 I’m currently developing a recommender-focused app that combines data insights with user experience (reach out to chat about it!).
+- 💡 I’m passionate about building data-driven, user-centered products that turn complex problems into simple, meaningful solutions.
+- 🌱 Currently learning more about scalable architectures and product strategy.
+- 👯 Open to collaboration and opportunities in product, data, and AI.
+- ⚡ Outside of tech, I love going on walks, working out, and discovering new music.
 
 <!--
 **sarand0/sarand0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
